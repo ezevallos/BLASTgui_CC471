@@ -4,6 +4,8 @@
 
 import os
 import sys
+import plotly.plotly as py
+import plotly.figure_factory as ff
 import Bio
 from PyQt4 import QtGui
 from Bio.Seq import Seq
