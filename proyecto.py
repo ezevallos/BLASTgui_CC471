@@ -2,9 +2,6 @@
 """Proyecto CC471 - Analisis Bioinformatico de Especies
 """
 
-import os
-import sys
-
 # import Bio
 import tkinter as tk
 
