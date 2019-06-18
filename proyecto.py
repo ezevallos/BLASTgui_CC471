@@ -14,6 +14,13 @@ from tkinter import *
 from tkinter import Menu
 import os, sys
 
+#############
+# funciones #
+#############
+
+# Alinea los archivos en la lista files
+# contenidos en la carpeta folderName
+def alignFunction(folderName, files, tkWindow) :
 
 	records = []
 	for filename in files :
