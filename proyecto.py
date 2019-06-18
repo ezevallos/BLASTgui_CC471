@@ -4,6 +4,13 @@
 
 # import Bio
 import tkinter as tk
+import os, sys
+
+path = 'Secuencias/.'
+dirs = os.listdir(path)
+
+for file in dirs:
+    print(file)
 
 # from Bio.Seq import Seq
 
