@@ -1,0 +1,44 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+gi|1158603781|ref|XP_020304830      MKGPESSQSITDNILSNPYSGIQFAFDKRRRNLEKRKNRLLQYEADLKDG
+gi|165953|gb|AAA31554.1|            --------------------------------------------------
+gi|1465231394|gb|AXR98514.1|        --------------------------------GGSSSYSSGSYGGAVSPD
+AAB30058.2                          --------------------------------------------------
+                                                                                      
+
+gi|1158603781|ref|XP_020304830      KKLSEQQIEARYCIGEVDTQLEFLKDISRVLQTLQKEYLRGVKQRDDGMK
+gi|165953|gb|AAA31554.1|            --------------------------------------------------
+gi|1465231394|gb|AXR98514.1|        VAGPIAVPITTSTRQEVRSEQQFINGQPVYQLQHERRFKDDRLVHDQKVE
+AAB30058.2                          -------------VTLARTDLEMQIEGLKEELAYLRKNHEEEMLALRGQT
+                                                                                      
+
+gi|1158603781|ref|XP_020304830      KELAEHERKRLEDFIYFQNIIERFGKAEVKDVFLSGTDNKASLFSEAKPE
+gi|165953|gb|AAA31554.1|            --------------------------------------------------
+gi|1465231394|gb|AXR98514.1|        KGDHDLGFSHETGAAYSGSQLSSSGSSSSYRSSNTQPNYDDHLEGSYVQG
+AAB30058.2                          GGDVNVEMDAAPGVDLSRILNEMRDQYEQMAEKNRRDAETWFLSKTEELN
+                                                                                      
+
+gi|1158603781|ref|XP_020304830      VSSKRRSNGAQDGFINGVEQVNGFGARGDERRQVRGAKSYGTQRNDFGSG
+gi|165953|gb|AAA31554.1|            ----------MCGYYG-----NYYGGLG------CGSYSYG------GLG
+gi|1465231394|gb|AXR98514.1|        SSFGSSGLGSPDAYSDDYSS-DFHSNMARMRENLQRQMSYG------PHQ
+AAB30058.2                          KEVASNSELVQSSRSEVTELRRVLQGLEIELQSQLSTKASLEN----SLE
+                                                .                         :           
+
+gi|1158603781|ref|XP_020304830      GAKGGDFGKGLDAERGRTGGGSRRQERDNYDGPRNFRGVPRNSGRGF-GS
+gi|165953|gb|AAA31554.1|            CGYGSCYGSGFR----RLGCG--------YG-----------CGYGY-GS
+gi|1465231394|gb|AXR98514.1|        PVQGGSHRSEVHSETRYVNGQPVYVKNVKRKYKDGQLVHNHTEEKGP-ED
+AAB30058.2                          ETKG-RYCMQLSQIQGLIGSVEEQLAQLRCEMEQQSQEYQILLDVKTRLE
+                                       *  .   .       .                              .
+
+gi|1158603781|ref|XP_020304830      SGGRGGASNLTPRGSGFRNASNSNNNQMNGGFKGNGNGGGGLSGCGYNGP
+gi|165953|gb|AAA31554.1|            R-------SLCGSGYGYGSRS----------LCGSGYG----CGSGYGSG
+gi|1465231394|gb|AXR98514.1|        LGTKDIVRQYDSTGALIGDDFQGGYYENHGEYTSTHRD----SQDTYPRY
+AAB30058.2                          HEIATYRRLLXGEDAHLSSQQASGQSYSSREVFTSSSS----SSSRQTRP
+                                                 .    .               .  .    .       
+
+gi|1158603781|ref|XP_020304830      PQPPRRQLGFNFASDTF
+gi|165953|gb|AAA31554.1|            -------FGYYY-----
+gi|1465231394|gb|AXR98514.1|        RPGYTSYSQYSHQHS--
+AAB30058.2                          ILKEQSSSSFSQGQSS-
+                                             :       

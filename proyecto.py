@@ -14,13 +14,6 @@ from tkinter import *
 from tkinter import Menu
 import os, sys
 
-path = 'Secuencias/.'
-dirs = os.listdir(path)
-
-for file in dirs:
-    print(file)
-
-
 #############
 # funciones #
 #############
@@ -32,7 +25,7 @@ def alignFunction(folderName, files, tkWindow) :
 	records = []
 	for filename in files :
 		handle = open(folderName + "/" + filename)
-		record = SeqIO.read( handle, "swiss" )
+		record = SeqIO.read( handle, "fasta" )
 		records.append ( record )
 	SeqIO.write(records, "TOALIGN.fasta", "fasta")	
 	cline = ClustalwCommandline("clustalw2", infile="TOALIGN.fasta")
