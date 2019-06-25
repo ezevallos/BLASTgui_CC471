@@ -3,7 +3,7 @@
 """
 
 
-
+import platform
 from Bio import Phylo
 from Bio import SeqIO
 from Bio import AlignIO
@@ -32,8 +32,12 @@ def alignFunction(folderName, files, tkWindow) :
 		record = SeqIO.read( handle, "fasta" )
 		records.append ( record )
 	SeqIO.write(records, "TOALIGN.fasta", "fasta")	
-	cline = ClustalwCommandline("clustalw2", infile="TOALIGN.fasta")
+	if platform.system() == "Linux" :
+		cline = ClustalwCommandline("./clustalw2", infile="TOALIGN.fasta")
+	else :
+		cline = ClustalwCommandline("clustalw2", infile="TOALIGN.fasta")
 	
+
 	window = Toplevel(tkWindow)
 	window.title("Alineamiento")
 	canvas = Canvas(window, width=800, height=650, bg = '#afeeee')
@@ -42,6 +46,15 @@ def alignFunction(folderName, files, tkWindow) :
 	cline()
 	alignment = AlignIO.read(open("TOALIGN.aln"), "clustal")
 	
+	
+
+	summary_align = AlignInfo.SummaryInfo(alignment)
+	consensus = summary_align.dumb_consensus()
+
+	canvas.create_text(10,10, anchor=NW,fill="darkblue",font="Courier 12", text=str(alignment))
+	canvas.pack()
+
+
 	scorer = ParsimonyScorer() 
 	searcher = NNITreeSearcher(scorer) 
 	constructor = ParsimonyTreeConstructor(searcher) 
@@ -49,11 +62,6 @@ def alignFunction(folderName, files, tkWindow) :
 	
 	Phylo.draw(pars_tree)
 
-	summary_align = AlignInfo.SummaryInfo(alignment)
-	consensus = summary_align.dumb_consensus()
-
-	canvas.create_text(10,10, anchor=NW,fill="darkblue",font="Courier 12", text=str(alignment))
-	canvas.pack()
 	window.mainloop()
 	return
 
@@ -89,7 +97,7 @@ def checkWindow(folder, tkWindow) :
 	for file in files :
 		checks.append(IntVar())
 		Checkbutton(window, text=file, variable=checks[i]).grid(column= i//20 + 1, row=(i%20)+1, sticky=W)
-		print(file)
+		#print(file)
 		i = i + 1
 
 	Button(window, text='ALINEAR', command=lambda : aligner(folder, files, checks, window)).grid(column= i//20 + 1, row=(i%20)+1, sticky=W)
