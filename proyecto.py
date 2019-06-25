@@ -2,12 +2,16 @@
 """Proyecto CC471 - Analisis Bioinformatico de Especies
 """
 
+
+
+from Bio import Phylo
 from Bio import SeqIO
 from Bio import AlignIO
 from Bio.Align import AlignInfo
 from Bio import SubsMat
 from Bio.Align.Applications import ClustalwCommandline
 
+from Bio.Phylo.TreeConstruction import * 
 
 import tkinter as tk
 from tkinter import *
@@ -34,8 +38,17 @@ def alignFunction(folderName, files, tkWindow) :
 	window.title("Alineamiento")
 	canvas = Canvas(window, width=800, height=650, bg = '#afeeee')
 
+
 	cline()
 	alignment = AlignIO.read(open("TOALIGN.aln"), "clustal")
+	
+	scorer = ParsimonyScorer() 
+	searcher = NNITreeSearcher(scorer) 
+	constructor = ParsimonyTreeConstructor(searcher) 
+	pars_tree = constructor.build_tree(alignment)
+	
+	Phylo.draw(pars_tree)
+
 	summary_align = AlignInfo.SummaryInfo(alignment)
 	consensus = summary_align.dumb_consensus()
 
