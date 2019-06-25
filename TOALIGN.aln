@@ -1,274 +1,74 @@
 CLUSTAL 2.1 multiple sequence alignment
 
 
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      -----------------------------MSFSTRSVSQSSRYGVLASPM
-AAB30058.2                          --------------------------------------------------
-AAA41473.1                          -----------------------------MDFSRRSFHRSLSSSSQGPAL
-AFP00900.1                          --------------------------MSRSVYSANIGGSVIVSSNQRRSF
-JAB54039.1                          ----------MSFSKSTVYSTSFRPLKFGTGSSAASVYAGAGGSGSRISV
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           MNCRQFLSSHCSRDSSGGGGGSKMFSCNRSSFSGASGGGGRFSSSRSFGG
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
 gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      --------------------------------------------------
+gi|165447|gb|AAA31379.1|            --------------------------------------------------
+JAB54039.1                          MSFSKSTVYSTSFRPLKFGTGSSAASVYAGAGGSGSRISVSRVSSLSSSY
+gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
 gi|1158603781|ref|XP_020304830      --------------------------------------------------
 gi|1465231394|gb|AXR98514.1|        --------------------------------------------------
-gi|123889739|sp|Q1RM03.1|TCHP_      -----------------------MALPTLSAHWPSRVRTLEQQLVRQREQ
                                                                                       
 
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      VNR-------------ALSVA--GGAQTVRMSSAKLTSSAFAGP------
-AAB30058.2                          --------------------------------------------------
-AAA41473.1                          STSGSLYRKGTMQRLGLHSVY--GGWRHGTRISVSKTTMSYGNH------
-AFP00900.1                          ASTSSSLFGSGAPSRRAISVYNIGANRGKRISSAGGSWNASYAS------
-JAB54039.1                          SRVSSLSSSYGGGYGASSSYGGGYGASSSYGGGYGGGYGGMSSS------
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           GSSGACGRGGGGSFGSSYGGGSGGGFSAGSFGGHSRGFSGGSGGGFGGGF
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
 gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      --------------------------------------------------
+gi|165447|gb|AAA31379.1|            --------------------------------------------------
+JAB54039.1                          GGGYGASSSYGGGYGASSSYGGGYGGGYGGMSSSLHLSGSGVVQSEKETM
+gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
+gi|1158603781|ref|XP_020304830      --------------------MKGPESSQSITDNILSNPYSGIQFAFDKRR
+gi|1465231394|gb|AXR98514.1|        ----------------------------GGSSSYSSGSYGG---------
+                                                                                      
+
+gi|165953|gb|AAA31554.1|            --------------------------------------------------
+gi|165447|gb|AAA31379.1|            --------------------------------------------------
+JAB54039.1                          QDLNDRLASYLDKVRSLETDNRKLEIQIREYTEKKGPSTRDWGRYFDIID
+gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
+gi|1158603781|ref|XP_020304830      RNLEKRKNRLLQYEADLKDGKKLSEQQIEAR-----YCIGEVDTQLEFLK
+gi|1465231394|gb|AXR98514.1|        ------------------------------------------AVSPDVAG
+                                                                                      
+
+gi|165953|gb|AAA31554.1|            --------------------------------------------------
+gi|165447|gb|AAA31379.1|            --------------------------------------------------
+JAB54039.1                          DLKNQIYDQSVENARVILQIDNARLAADDFRVKFEGELAIRQSVESDIIG
+gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
+gi|1158603781|ref|XP_020304830      DISRVLQTLQKEYLRGVKQRDDGMKKELAEHERKRLEDFIYFQNIIERFG
+gi|1465231394|gb|AXR98514.1|        PIAVPITTSTRQEVRSEQQFINGQPVYQLQHERRFKDDRLVHDQKVEKGD
+                                                                                      
+
+gi|165953|gb|AAA31554.1|            -----------------------------------MCGYYGN--------
+gi|165447|gb|AAA31379.1|            -----------------------------------MCGYYGN--------
+JAB54039.1                          LRKVIDDTNMSRLQLEGEIEALKEELIFMKKNHQDEVTSLQTQIANSGLT
+gi|10716084|dbj|BAB16373.1|         ------------------------------KNQRELEAWLQTQSES--LS
+gi|1158603781|ref|XP_020304830      KAEVKDVFLSGTDNKASLFSEAKPEVSSKRRSNGAQDGFINGVEQVN---
+gi|1465231394|gb|AXR98514.1|        HDLGFSHETGAAYSGSQLSSSGSSSSYRSSNTQPNYDDHLEGSYVQG---
+                                                                                      
+
+gi|165953|gb|AAA31554.1|            --------------------------------------------------
+gi|165447|gb|AAA31379.1|            --------------------------------------------------
+JAB54039.1                          VEVDAPKTQDLAKIMAEIRAQYDNLAQKNLEDLDKYWSQQITESTVIINQ
+gi|10716084|dbj|BAB16373.1|         KEVAV---------------------------------------------
 gi|1158603781|ref|XP_020304830      --------------------------------------------------
-gi|1465231394|gb|AXR98514.1|        --------------------------------------------------
-gi|123889739|sp|Q1RM03.1|TCHP_      EARLRRQWEQHSQYFREQDVRSSKQAQWSSRQSFHRSMSAFQRDRMREEK
+gi|1465231394|gb|AXR98514.1|        -----------------------------------------------SSF
                                                                                       
 
+gi|165953|gb|AAA31554.1|            YYGGLG---CG----SYSYGGLGCGYG------SCYGSGFRRLGCGYGCG
+gi|165447|gb|AAA31379.1|            YYGGRGYGCCGYGGLGYGYGGLGCGLG------SYYGCGYRRLGCGYGCG
+JAB54039.1                          NTQEIETARTTITDLRRTVQTLEIELESMRNVRASLEANLHEVESRYAMQ
+gi|10716084|dbj|BAB16373.1|         KTEVLQTTKAEISDLRRTMQNLEIELQSQLSMKAALEGTLSDTECRYSMQ
+gi|1158603781|ref|XP_020304830      GFGARGDERRQVRG-AKSYGTQRNDFGSGGAKGGDFGKGLDAERGRTGGG
+gi|1465231394|gb|AXR98514.1|        GSSGLGSPDAYSDDYSSDFHSNMARMRENLQRQMSYGPHQPVQGGSHRSE
+                                                                                      
+
+gi|165953|gb|AAA31554.1|            YG-YGSRSLCGSGYGYGSRSLCGSG---Y----GCGSGYGSGFGYYY---
+gi|165447|gb|AAA31379.1|            YG-YG----------YGSRSLCGCG---Y----GYGSGYGSGFGYYY---
+JAB54039.1                          IEHLNGILIRTEAELVQLRNDVQRQADDYQALLNIKDKLEAEIATYRQLL
+gi|10716084|dbj|BAB16373.1|         LQSLQIQVTSLEEQLMQLRADMERQNQEYNILLDIKTRLEMEIAEY----
+gi|1158603781|ref|XP_020304830      SRRQERDNYDGPRNFRGVPRNSGRGFGSSGGRGGASNLTPRGSGFRNASN
+gi|1465231394|gb|AXR98514.1|        VHSETRYVNGQPVYVKNVKRKYKDGQLVHNHTEEKGPEDLGTKDIVRQYD
+                                                                                      
+
+gi|165953|gb|AAA31554.1|            --------------------------------------------------
+gi|165447|gb|AAA31379.1|            --------------------------------------------------
+JAB54039.1                          EGGEELS--LKDALLESTMQVSQKIHSTKIVDGKVVSETSETKTLKR---
 gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      -------------------------SALDVSSFGNNGKETMQNLNDRLAS
-AAB30058.2                          --------------------------------------------------
-AAA41473.1                          -------------------------LSNGGDLFGGNEKLAMQNLNDRLAS
-AFP00900.1                          -------------------------LGGDAGILCNDEKQTMQNLNARLSS
-JAB54039.1                          -------------------------LHLSGSGVVQSEKETMQDLNDRLAS
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           GGGFGGFSGGSGGGFGGPGGFGSGFDSGAGGILGADEKTTMQDLNSRLAS
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      --------------------------------------------------
-gi|1158603781|ref|XP_020304830      -------------------------MKGPESSQSITDNILSNPYSGIQFA
-gi|1465231394|gb|AXR98514.1|        -------------------------GGSSSYSSGSYGGAVSPDVAGPIAV
-gi|123889739|sp|Q1RM03.1|TCHP_      QRKLEERRERLRTMLQEERDQLEAELRNIHPDRDTLARQLVEKTDALRSA
+gi|1158603781|ref|XP_020304830      SNNNQMNGGFKGNGNGGGGLSGCGYNGPPQPPRRQLGFNFASDTF-----
+gi|1465231394|gb|AXR98514.1|        STGALIGDDFQGGYYENHGEYTSTHRDSQDTYPRYRPGYTSYSQYSHQHS
                                                                                       
-
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      YLERVRSLEQANHELELKIREYCEKK-AAIGSPDVSGYYNIINLLRSQIN
-AAB30058.2                          --------------------------------------------------
-AAA41473.1                          YLEKVRSLEQSNSKLEAQIKQWYETN-APSTIRDYSSYYAQIKELQDQIK
-AFP00900.1                          YMEKVRSLEKSNRQLEFQIHEFYEKK-APVSTKDLTVYEGNISDCHLQIY
-JAB54039.1                          YLDKVRSLETDNRKLEIQIREYTEKK-GPS-TRDWGRYFDIIDDLKNQIY
-gi|1385877943|gb|AWG72124.1|        -----RSLXRPTHDLEVKIREWYEKQ-GPSPTRDYSHYFKVIEDLRDKIL
-gi|2352260|gb|AAC26971.1|           YLDKVQALEDANKELESKIREWYDKQGSRTFHRDYSPYYDTIEDLKNQIV
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      --------------------------------------------------
-gi|1158603781|ref|XP_020304830      FDKRRRNLEKRKNRLLQYEADLKDGKKLSEQQIEARYCIGEVDTQLEFLK
-gi|1465231394|gb|AXR98514.1|        PITTSTRQEVRSEQQFINGQPVYQLQHERRFKDDRLVHDQKVEKGDHDLG
-gi|123889739|sp|Q1RM03.1|TCHP_      REERRKNLAQELLREHWKQNNSQLRKVESELHKDHIVSQWQVQQQEKKQA
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      DASIDNARLVLQIDNAKLAADDFKIKYESELAIRTGVESDIIGLRRVLDE
-AAB30058.2                          --------------------------------------------------
-AAA41473.1                          DAQIENARCVLQIDNAKLAAEDFRLKFETERGMRITVEADLQGLSKVYDD
-AFP00900.1                          AISLHNAKLMLQIDNARLAADDFRIKYESELAIRKGVEADIQGLRKVMDE
-JAB54039.1                          DQSVENARVILQIDNARLAADDFRVKFEGELAIRQSVESDIIGLRKVIDD
-gi|1385877943|gb|AWG72124.1|        AATIDNSRVVLQVDNARLAX------------------------------
-gi|2352260|gb|AAC26971.1|           NITADNNKTLLDLDNTRMTLDDIRMKCDIENNLRLAVNADINGLRKVLDD
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      --------------------------------------------------
-gi|1158603781|ref|XP_020304830      DISRVLQTLQKEYLRG----------------------------------
-gi|1465231394|gb|AXR98514.1|        FSHETGAAYSG---------------------------------------
-gi|123889739|sp|Q1RM03.1|TCHP_      DERTQEEKQRFENEYERTRQEALERMRKEEENRKWEEKKRAEELLKQMEE
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      LTLNKTDLELEIE------SLKEELIYLKKNHEEELAVARASAR-GQVDV
-AAB30058.2                          VTLARTDLEMQIE------GLKEELAYLRKNHEEEMLALRGQTG-GDVNV
-AAA41473.1                          LTLQKTDLEIQIE------ELNKDLALLKKEHQEEVEVLRRQLG-NNVNV
-AFP00900.1                          LSLTKRGLESQVT------ALKEDLVYLHRSHKEELLSLHTGMG-GSVTV
-JAB54039.1                          TNMSRLQLEGEIE------ALKEELIFMKKNHQDEVTSLQTQIANSGLTV
-gi|1385877943|gb|AWG72124.1|        --MTS---------------------------------------------
-gi|2352260|gb|AAC26971.1|           LTMQKSDLEMHYE------SLQEELIALKKNHEDEMSQLTGQNS-GDVNV
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      -------------------------------MSCYDLCSTTTGGISCPQP
-gi|1158603781|ref|XP_020304830      -------VKQRDD------GMKKELAEHERKRLEDFIYFQNIIERFGKAE
-gi|1465231394|gb|AXR98514.1|        ---SQLSSSGSSS------SYRSSNTQPNYDDHLEGSYVQGSSFGSSGLG
-gi|123889739|sp|Q1RM03.1|TCHP_      LKLREQEAERLKQEQETLMSKRWELEKLEDERKMMEESRRKTEFGRFLTR
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         --------------------------KNQRELEAWLQTQSES--------
-gi|55742162|ref|NP_001006687.1      QVDSAPPVDLSQIMSDVRAQYEGMMEKNRQEVEAWYRGQSEN--------
-AAB30058.2                          EMDAAPGVDLSRILNEMRDQYEQMAEKNRRDAETWFLSKTEE--------
-AAA41473.1                          EVDAAPGLNLGEIMNEMRQKYEILAQKNLQEAKEQFERQTQT--------
-AFP00900.1                          DLDSTPATDLNKILSNLRIEYETIAEKNRKDVEAWYLEKCHT--------
-JAB54039.1                          EVDAPKTQDLAKIMAEIRAQYDNLAQKNLEDLDKYWSQQITE--------
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           EMNAAPGRDLTKILNDMREEYERISAKNRKDIEEQYETQMSQ--------
-gi|165447|gb|AAA31379.1|            -----------------------------------------M--------
-gi|165953|gb|AAA31554.1|            -----------------------------------------M--------
-gi|480306409|ref|NP_001264675.      IADSCNEPCVRQCPDSTTVIQPPPVAITFPGPILSSFPQQAV--------
-gi|1158603781|ref|XP_020304830      VKDVFLSGTDNKASLFSEAKPEVSSKRRSNGAQDGFINGVEQ--------
-gi|1465231394|gb|AXR98514.1|        SPDAYSDDYSSDFHSNMARMRENLQRQMSYGPHQPVQGGSHR--------
-gi|123889739|sp|Q1RM03.1|TCHP_      QYRAQLKRRAQQVQEELEADRKILAALLEGELDEQRFHKARRERAVADAA
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         -LSKEVAVKTEVLQTTKAEISDLRRTMQNLEIELQSQLSM--KAALEGTL
-gi|55742162|ref|NP_001006687.1      -LNKEVATNTAALQTSKSQITDLKRTIQSLEIELQSLLSM--KGALEGTL
-AAB30058.2                          -LNKEVASNSELVQSSRSEVTELRRVLQGLEIELQSQLST--KASLENSL
-AAA41473.1                          -LEKQVTVNIEELRGTEVQVTELRRSYQTLEIELQSQLSM--KESLERTL
-AFP00900.1                          -LNQTMTKTTESVHTQKLEITERRRTLQSLEIDLQSLLTM--KDSLERNV
-JAB54039.1                          -STVIINQNTQEIETARTTITDLRRTVQTLEIELESMRNV--RASLEANL
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           -MEQEVMSSGQEMESNHKEVTQLRHSIQEMEIELQSQLSK--KSALEKSL
-gi|165447|gb|AAA31379.1|            -CGYYGN-YYGGRGYGCCGYGGLGYGYGGLGCGLGSYYGC--GYRRLGCG
-gi|165953|gb|AAA31554.1|            -CGYYGN-YYGGLG---CG----SYSYGGLGCGYGSCYGS--GFRRLGCG
-gi|480306409|ref|NP_001264675.      -VGSSGAPVLGGSGGSSVGIGG-LYGYGGSSLGYGGLYGY--GGSSLGYG
-gi|1158603781|ref|XP_020304830      -VNGFGARGDERRQVRGAKSYGTQRNDFGSGGAKGGDFGKGLDAERGRTG
-gi|1465231394|gb|AXR98514.1|        -SEVHSETRYVNGQPVYVKNVKRKYKDGQLVHNHTEEKGPE-DLGTKDIV
-gi|123889739|sp|Q1RM03.1|TCHP_      WMKRVIEEQLQLEREREAEFDILYREEAQRVWEKREAEWEKERRARERLM
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         SDTECRYSMQLQSLQIQVTSLEEQLMQLRADMERQNQEYNILLDIKTRLE
-gi|55742162|ref|NP_001006687.1      AETEARYGAELNHLQAMITQIELDLQNLRSDAERQSLEYKLLLDAKTRLE
-AAB30058.2                          EETKGRYCMQLSQIQGLIGSVEEQLAQLRCEMEQQSQEYQILLDVKTRLE
-AAA41473.1                          EETKARYASQLAAIQEMLSSLEAQLMQIRSDTERQNQEYNILLDIKTRLE
-AFP00900.1                          YEAEHRYSDQLLHLQDHIVRLEDELSQIKAEMERQSSEYSQLLGVKTRLE
-JAB54039.1                          HEVESRYAMQIEHLNGILIRTEAELVQLRNDVQRQADDYQALLNIKDKLE
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           EDTKNHYCGQLQQLQEQIRSLEGQITEIRGEIECQNQEYSLLLNIKTRLE
-gi|165447|gb|AAA31379.1|            --YGCG-Y-GYG----------YGSRSLCGCGYGYGSGYGSGFGYYY---
-gi|165953|gb|AAA31554.1|            --YGCG-Y-GYGSRSLCGSGYGYGSRSLCGSGYGCGSGYGSGFGYYY---
-gi|480306409|ref|NP_001264675.      GLYGLGSYGGYGG---LYGGSSLGYRGLYGYGRSYGSGYCSPYRYNRFRR
-gi|1158603781|ref|XP_020304830      GGSRRQERDNYDGPRNFRGVPRNSGRGFGSSGGRGGASNLTPRGSGFRNA
-gi|1465231394|gb|AXR98514.1|        RQYDSTGALIGDDFQGGYYENHGEYTSTHRDSQDTYPRYRPGYTSYSQYS
-gi|123889739|sp|Q1RM03.1|TCHP_      REVLAGRQQQLQERMQENRLAREESLQRREELLQQLEQDRLTLRLEKEQQ
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         MEI-AEY-------------------------------------------
-gi|55742162|ref|NP_001006687.1      MEI-STYRRLLEGEDTRFSQTETQKAVTIVSKEQSKSSIKKVKTVIEEVV
-AAB30058.2                          HEI-ATYRRLLXGEDAHLS-SQQASGQSYSSREVFTSSSSSSSRQTRPIL
-AAA41473.1                          QEI-ATYRRLLEGEDIKTTEYQLN---TLEAKDIKKTR--KIKTVVEEVV
-AFP00900.1                          MEI-ATYRRLLDGE---------ERTEIIVTREPEIHTIKKVVTVIEKIV
-JAB54039.1                          AEI-ATYRQLLEGGE----------ELSLKDALLESTMQVSQKIHSTKIV
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           QEI-KTYRSLLEGGQEDFESHESGQSHFGSGGSRQQGGIGGSHGRGSRGG
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      GSC-GPC-------------------------------------------
-gi|1158603781|ref|XP_020304830      SNS-NNNQ----------------MNGGFKGNGNGGGGLSGCGYNGPPQP
-gi|1465231394|gb|AXR98514.1|        HQH-S---------------------------------------------
-gi|123889739|sp|Q1RM03.1|TCHP_      EGLRTARIQEIDNQVEQRRKEQWEQQQTLEQEEAQEREELRLQEEELRLE
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      DGKVVSSRVEEVTEKS----------------------------------
-AAB30058.2                          KEQSSSSFSQGQSS------------------------------------
-AAA41473.1                          DGKVVSSEVKEIEENI----------------------------------
-AFP00900.1                          DGQVVSSDIQEVQEEQK---------------------------------
-JAB54039.1                          DGKVVSETSETKTLKR----------------------------------
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           SGGSYGGGSSSGGGSGGSHGGGSGGSYGGGSSSGGGSGGRGGSGGSYGGG
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      --------------------------------------------------
-gi|1158603781|ref|XP_020304830      PRRQLGFNFASDTF------------------------------------
-gi|1465231394|gb|AXR98514.1|        --------------------------------------------------
-gi|123889739|sp|Q1RM03.1|TCHP_      TDRMIRQGFQERIHSRPRSAWT----------------------------
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      --------------------------------------------------
-AAB30058.2                          --------------------------------------------------
-AAA41473.1                          --------------------------------------------------
-AFP00900.1                          --------------------------------------------------
-JAB54039.1                          --------------------------------------------------
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           SGSGGGSSGSYGGGSSSGGGSGGSHGGGSGGSYGGGSSSGGGSGGRGGSG
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      --------------------------------------------------
-gi|1158603781|ref|XP_020304830      --------------------------------------------------
-gi|1465231394|gb|AXR98514.1|        --------------------------------------------------
-gi|123889739|sp|Q1RM03.1|TCHP_      --------------------------------------------------
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      --------------------------------------------------
-AAB30058.2                          --------------------------------------------------
-AAA41473.1                          --------------------------------------------------
-AFP00900.1                          --------------------------------------------------
-JAB54039.1                          --------------------------------------------------
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           GSYGGGSGSGGGRGGGCEEGSGSGGRSGGSYGGGSGSGGGSSCSYGGGSS
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      --------------------------------------------------
-gi|1158603781|ref|XP_020304830      --------------------------------------------------
-gi|1465231394|gb|AXR98514.1|        --------------------------------------------------
-gi|123889739|sp|Q1RM03.1|TCHP_      --------------------------------------------------
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      --------------------------------------------------
-AAB30058.2                          --------------------------------------------------
-AAA41473.1                          --------------------------------------------------
-AFP00900.1                          --------------------------------------------------
-JAB54039.1                          --------------------------------------------------
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           SGGGSGGSYGGGSSSGGGSGGKGGSGCSYSGGSSSGGGSGGSYGGGSSSG
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      --------------------------------------------------
-gi|1158603781|ref|XP_020304830      --------------------------------------------------
-gi|1465231394|gb|AXR98514.1|        --------------------------------------------------
-gi|123889739|sp|Q1RM03.1|TCHP_      --------------------------------------------------
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      --------------------------------------------------
-AAB30058.2                          --------------------------------------------------
-AAA41473.1                          --------------------------------------------------
-AFP00900.1                          --------------------------------------------------
-JAB54039.1                          --------------------------------------------------
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           RGSGGRGGSAGSYGGGSGSGGGRGGGCEEGSGSGGRSGGSYGGGSGSGGR
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      --------------------------------------------------
-gi|1158603781|ref|XP_020304830      --------------------------------------------------
-gi|1465231394|gb|AXR98514.1|        --------------------------------------------------
-gi|123889739|sp|Q1RM03.1|TCHP_      --------------------------------------------------
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|55742162|ref|NP_001006687.1      --------------------------------------------------
-AAB30058.2                          --------------------------------------------------
-AAA41473.1                          --------------------------------------------------
-AFP00900.1                          --------------------------------------------------
-JAB54039.1                          --------------------------------------------------
-gi|1385877943|gb|AWG72124.1|        --------------------------------------------------
-gi|2352260|gb|AAC26971.1|           SGGSYGGGSGSGGGSGGSYGGGSGSKGGSGRSSQVQSSSSKSGECDDTQG
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|480306409|ref|NP_001264675.      --------------------------------------------------
-gi|1158603781|ref|XP_020304830      --------------------------------------------------
-gi|1465231394|gb|AXR98514.1|        --------------------------------------------------
-gi|123889739|sp|Q1RM03.1|TCHP_      --------------------------------------------------
-                                                                                      
-
-gi|10716084|dbj|BAB16373.1|         -----
-gi|55742162|ref|NP_001006687.1      -----
-AAB30058.2                          -----
-AAA41473.1                          -----
-AFP00900.1                          -----
-JAB54039.1                          -----
-gi|1385877943|gb|AWG72124.1|        -----
-gi|2352260|gb|AAC26971.1|           YHIQY
-gi|165447|gb|AAA31379.1|            -----
-gi|165953|gb|AAA31554.1|            -----
-gi|480306409|ref|NP_001264675.      -----
-gi|1158603781|ref|XP_020304830      -----
-gi|1465231394|gb|AXR98514.1|        -----
-gi|123889739|sp|Q1RM03.1|TCHP_      -----
-                                         
