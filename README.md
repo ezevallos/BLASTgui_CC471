@@ -1,5 +1,5 @@
 # BLASTgui_CC471
-Software de análisis bioinformático para genes y proteínas pertenecientes a especies endémicas de un país.
+Software de análisis bioinformático para alineamiento múltiple de secuencias y visualización de árboles filogenéticos.
 ## Instrucciones de uso:
 Dependiendo del sistema operativo, utilizar
 
