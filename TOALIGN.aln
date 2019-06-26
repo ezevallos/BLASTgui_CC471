@@ -1,74 +1,98 @@
 CLUSTAL 2.1 multiple sequence alignment
 
 
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-JAB54039.1                          MSFSKSTVYSTSFRPLKFGTGSSAASVYAGAGGSGSRISVSRVSSLSSSY
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|1158603781|ref|XP_020304830      --------------------------------------------------
-gi|1465231394|gb|AXR98514.1|        --------------------------------------------------
+AFP00900.1                          -MSRSVYSANIGGSVIVSSNQRRSFASTSSSLFGSGAPSRRAISVYNIG-
+AAB30058.2                          --------------------------------------------------
+gi|2352260|gb|AAC26971.1|           MNCRQFLSSHCSRDSSGGGGGSKMFSCNRSSFSGASGGGGRFSSSRSFGG
+gi|480306409|ref|NP_001264675.      --------------------------------------------------
                                                                                       
 
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-JAB54039.1                          GGGYGASSSYGGGYGASSSYGGGYGGGYGGMSSSLHLSGSGVVQSEKETM
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|1158603781|ref|XP_020304830      --------------------MKGPESSQSITDNILSNPYSGIQFAFDKRR
-gi|1465231394|gb|AXR98514.1|        ----------------------------GGSSSYSSGSYGG---------
+AFP00900.1                          ANRGKRISSAGGSWNASY----------ASLG------------------
+AAB30058.2                          --------------------------------------------------
+gi|2352260|gb|AAC26971.1|           GSSGACGRGGGGSFGSSYGGGSGGGFSAGSFGGHSRGFSGGSGGGFGGGF
+gi|480306409|ref|NP_001264675.      --------------------------------------------------
                                                                                       
 
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-JAB54039.1                          QDLNDRLASYLDKVRSLETDNRKLEIQIREYTEKKGPSTRDWGRYFDIID
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|1158603781|ref|XP_020304830      RNLEKRKNRLLQYEADLKDGKKLSEQQIEAR-----YCIGEVDTQLEFLK
-gi|1465231394|gb|AXR98514.1|        ------------------------------------------AVSPDVAG
+AFP00900.1                          ---------------------------GDAGILCNDEKQTMQNLNARLSS
+AAB30058.2                          --------------------------------------------------
+gi|2352260|gb|AAC26971.1|           GGGFGGFSGGSGGGFGGPGGFGSGFDSGAGGILGADEKTTMQDLNSRLAS
+gi|480306409|ref|NP_001264675.      --------------------------------------------------
                                                                                       
 
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-JAB54039.1                          DLKNQIYDQSVENARVILQIDNARLAADDFRVKFEGELAIRQSVESDIIG
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|1158603781|ref|XP_020304830      DISRVLQTLQKEYLRGVKQRDDGMKKELAEHERKRLEDFIYFQNIIERFG
-gi|1465231394|gb|AXR98514.1|        PIAVPITTSTRQEVRSEQQFINGQPVYQLQHERRFKDDRLVHDQKVEKGD
+AFP00900.1                          YMEKVRSLEKSNRQLEFQIHEFYEKKAP-VSTKDLTVYEGNISDCHLQIY
+AAB30058.2                          --------------------------------------------------
+gi|2352260|gb|AAC26971.1|           YLDKVQALEDANKELESKIREWYDKQGSRTFHRDYSPYYDTIEDLKNQIV
+gi|480306409|ref|NP_001264675.      --------------------------------------------------
                                                                                       
 
-gi|165953|gb|AAA31554.1|            -----------------------------------MCGYYGN--------
-gi|165447|gb|AAA31379.1|            -----------------------------------MCGYYGN--------
-JAB54039.1                          LRKVIDDTNMSRLQLEGEIEALKEELIFMKKNHQDEVTSLQTQIANSGLT
-gi|10716084|dbj|BAB16373.1|         ------------------------------KNQRELEAWLQTQSES--LS
-gi|1158603781|ref|XP_020304830      KAEVKDVFLSGTDNKASLFSEAKPEVSSKRRSNGAQDGFINGVEQVN---
-gi|1465231394|gb|AXR98514.1|        HDLGFSHETGAAYSGSQLSSSGSSSSYRSSNTQPNYDDHLEGSYVQG---
+AFP00900.1                          AISLHNAKLMLQIDNARLAADDFRIKYESELAIRKGVEADIQGLRKVMDE
+AAB30058.2                          --------------------------------------------------
+gi|2352260|gb|AAC26971.1|           NITADNNKTLLDLDNTRMTLDDIRMKCDIENNLRLAVNADINGLRKVLDD
+gi|480306409|ref|NP_001264675.      --------------------------------------------------
                                                                                       
 
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-JAB54039.1                          VEVDAPKTQDLAKIMAEIRAQYDNLAQKNLEDLDKYWSQQITESTVIINQ
-gi|10716084|dbj|BAB16373.1|         KEVAV---------------------------------------------
-gi|1158603781|ref|XP_020304830      --------------------------------------------------
-gi|1465231394|gb|AXR98514.1|        -----------------------------------------------SSF
+AFP00900.1                          LSLTKRGLESQVTALKEDLVYLHRSHKEELLSLHTGMGGSVTVDLDSTPA
+AAB30058.2                          VTLARTDLEMQIEGLKEELAYLRKNHEEEMLALRGQTGGDVNVEMDAAPG
+gi|2352260|gb|AAC26971.1|           LTMQKSDLEMHYESLQEELIALKKNHEDEMSQLTGQNSGDVNVEMNAAPG
+gi|480306409|ref|NP_001264675.      ---------------------------MSCYDLCSTTTGGISCPQPIADS
+                                                                .   *     *.:.     : .
+
+AFP00900.1                          TDLNKILSNLRIEYETIAEKNRKDVEAWYLEKCHTLNQTMTKTTESVHTQ
+AAB30058.2                          VDLSRILNEMRDQYEQMAEKNRRDAETWFLSKTEELNKEVASNSELVQSS
+gi|2352260|gb|AAC26971.1|           RDLTKILNDMREEYERISAKNRKDIEEQYETQMSQMEQEVMSSGQEMESN
+gi|480306409|ref|NP_001264675.      CNEPCVR-------------------------------QCPDSTTVIQPP
+                                     :   :                                   ..   :.. 
+
+AFP00900.1                          KLEITERRRTLQSLEIDLQSLLTMKDSLERNVYEAEHRYSDQLLHLQDHI
+AAB30058.2                          RSEVTELRRVLQGLEIELQSQLSTKASLENSLEETKGRYCMQLSQIQGLI
+gi|2352260|gb|AAC26971.1|           HKEVTQLRHSIQEMEIELQSQLSKKSALEKSLEDTKNHYCGQLQQLQEQI
+gi|480306409|ref|NP_001264675.      PVAITFPGPILSSFPQQAVVGSSGAPVLGGSGGSSVG--IGGLYGYGGSS
+                                       :*     :. :  :     :    *  .  .:       *       
+
+AFP00900.1                          VRLEDELSQIKAEMERQSSEYSQLLGVKTRLEMEIATYRRLLDGE----E
+AAB30058.2                          GSVEEQLAQLRCEMEQQSQEYQILLDVKTRLEHEIATYRRLLXGE----D
+gi|2352260|gb|AAC26971.1|           RSLEGQITEIRGEIECQNQEYSLLLNIKTRLEQEIKTYRSLLEGGQEDFE
+gi|480306409|ref|NP_001264675.      LGYGGLYGYGGSSLG-----YGGLYGLGS-----YGGYGGLYGGSSLGYR
+                                                .:      *  * .: :        *  *  *      
+
+AFP00900.1                          RTEIIVTREPEIHTIKK--VVTVIEKIVDGQVVSSDIQEVQ----EEQK-
+AAB30058.2                          AHLSSQQASGQSYSSRE--VFTSSSSSSSRQTRPILKEQSSSSFSQGQSS
+gi|2352260|gb|AAC26971.1|           SHESGQSHFGSGGSRQQGGIGGSHGRGSRGGSGGSYGGGSSSGGGSGGSH
+gi|480306409|ref|NP_001264675.      GLYGYGRSYGSGYCSPY-----RYNRFRRGSCGPC---------------
+                                              .                                       
+
+AFP00900.1                          --------------------------------------------------
+AAB30058.2                          --------------------------------------------------
+gi|2352260|gb|AAC26971.1|           GGGSGGSYGGGSSSGGGSGGRGGSGGSYGGGSGSGGGSSGSYGGGSSSGG
+gi|480306409|ref|NP_001264675.      --------------------------------------------------
                                                                                       
 
-gi|165953|gb|AAA31554.1|            YYGGLG---CG----SYSYGGLGCGYG------SCYGSGFRRLGCGYGCG
-gi|165447|gb|AAA31379.1|            YYGGRGYGCCGYGGLGYGYGGLGCGLG------SYYGCGYRRLGCGYGCG
-JAB54039.1                          NTQEIETARTTITDLRRTVQTLEIELESMRNVRASLEANLHEVESRYAMQ
-gi|10716084|dbj|BAB16373.1|         KTEVLQTTKAEISDLRRTMQNLEIELQSQLSMKAALEGTLSDTECRYSMQ
-gi|1158603781|ref|XP_020304830      GFGARGDERRQVRG-AKSYGTQRNDFGSGGAKGGDFGKGLDAERGRTGGG
-gi|1465231394|gb|AXR98514.1|        GSSGLGSPDAYSDDYSSDFHSNMARMRENLQRQMSYGPHQPVQGGSHRSE
+AFP00900.1                          --------------------------------------------------
+AAB30058.2                          --------------------------------------------------
+gi|2352260|gb|AAC26971.1|           GSGGSHGGGSGGSYGGGSSSGGGSGGRGGSGGSYGGGSGSGGGRGGGCEE
+gi|480306409|ref|NP_001264675.      --------------------------------------------------
                                                                                       
 
-gi|165953|gb|AAA31554.1|            YG-YGSRSLCGSGYGYGSRSLCGSG---Y----GCGSGYGSGFGYYY---
-gi|165447|gb|AAA31379.1|            YG-YG----------YGSRSLCGCG---Y----GYGSGYGSGFGYYY---
-JAB54039.1                          IEHLNGILIRTEAELVQLRNDVQRQADDYQALLNIKDKLEAEIATYRQLL
-gi|10716084|dbj|BAB16373.1|         LQSLQIQVTSLEEQLMQLRADMERQNQEYNILLDIKTRLEMEIAEY----
-gi|1158603781|ref|XP_020304830      SRRQERDNYDGPRNFRGVPRNSGRGFGSSGGRGGASNLTPRGSGFRNASN
-gi|1465231394|gb|AXR98514.1|        VHSETRYVNGQPVYVKNVKRKYKDGQLVHNHTEEKGPEDLGTKDIVRQYD
+AFP00900.1                          --------------------------------------------------
+AAB30058.2                          --------------------------------------------------
+gi|2352260|gb|AAC26971.1|           GSGSGGRSGGSYGGGSGSGGGSSCSYGGGSSSGGGSGGSYGGGSSSGGGS
+gi|480306409|ref|NP_001264675.      --------------------------------------------------
                                                                                       
 
-gi|165953|gb|AAA31554.1|            --------------------------------------------------
-gi|165447|gb|AAA31379.1|            --------------------------------------------------
-JAB54039.1                          EGGEELS--LKDALLESTMQVSQKIHSTKIVDGKVVSETSETKTLKR---
-gi|10716084|dbj|BAB16373.1|         --------------------------------------------------
-gi|1158603781|ref|XP_020304830      SNNNQMNGGFKGNGNGGGGLSGCGYNGPPQPPRRQLGFNFASDTF-----
-gi|1465231394|gb|AXR98514.1|        STGALIGDDFQGGYYENHGEYTSTHRDSQDTYPRYRPGYTSYSQYSHQHS
+AFP00900.1                          --------------------------------------------------
+AAB30058.2                          --------------------------------------------------
+gi|2352260|gb|AAC26971.1|           GGKGGSGCSYSGGSSSGGGSGGSYGGGSSSGRGSGGRGGSAGSYGGGSGS
+gi|480306409|ref|NP_001264675.      --------------------------------------------------
                                                                                       
+
+AFP00900.1                          --------------------------------------------------
+AAB30058.2                          --------------------------------------------------
+gi|2352260|gb|AAC26971.1|           GGGRGGGCEEGSGSGGRSGGSYGGGSGSGGRSGGSYGGGSGSGGGSGGSY
+gi|480306409|ref|NP_001264675.      --------------------------------------------------
+                                                                                      
+
+AFP00900.1                          ------------------------------------
+AAB30058.2                          ------------------------------------
+gi|2352260|gb|AAC26971.1|           GGGSGSKGGSGRSSQVQSSSSKSGECDDTQGYHIQY
+gi|480306409|ref|NP_001264675.      ------------------------------------
+                                                                        
