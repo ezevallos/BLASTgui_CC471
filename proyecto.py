@@ -42,6 +42,7 @@ def alignFunction(folderName, files, tkWindow) :
 	window.title("Alineamiento")
 	canvas = Canvas(window, width=800, height=650, bg = '#afeeee')
 
+#prueba
 
 	cline()
 	alignment = AlignIO.read(open("TOALIGN.aln"), "clustal")
