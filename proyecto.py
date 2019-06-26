@@ -38,6 +38,7 @@ def alignFunction(folderName, files, tkWindow) :
 		cline = ClustalwCommandline("clustalw2", infile="TOALIGN.fasta")
 	
 #prueba
+#cambio en el codigo
 	window = Toplevel(tkWindow)
 	window.title("Alineamiento")
 	canvas = Canvas(window, width=800, height=650, bg = '#afeeee')
